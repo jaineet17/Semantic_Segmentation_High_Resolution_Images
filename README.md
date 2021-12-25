@@ -1,2 +1,2 @@
 # Minor_Project_SEM-7
-Segmentation of High Resolution Images
+Semantic Segmentation of High Resolution Images
