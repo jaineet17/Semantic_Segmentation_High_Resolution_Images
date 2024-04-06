@@ -1,4 +1,4 @@
-# Segmentation of High-Resolution Aerial Images
+# Semantic Segmentation of High-Resolution Aerial Images
 
 This project is conducted by **Maher Thakkar** and **Jaineet Shah**, under the guidance of **Anitha Modi**, Assistant Professor at the Department of Computer Science and Engineering, Institute of Technology, Nirma University, Ahmedabad.
 
